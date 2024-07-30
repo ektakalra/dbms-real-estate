@@ -30,7 +30,7 @@ def admin():
         username=user.get()
         password=code.get()
 
-        if username=='jahnavi62442' and password=='2707':
+        if username=='ekta62442' and password=='2707':
             topp = Toplevel()
             topp.title('Agent List')
             topp.geometry('1920x1080')
